@@ -1,0 +1,29 @@
+# Cosmic Peaks Theme
+# Space × Mountains × Computers × Dark
+
+accent = "#00d4ff"          # Cyan terminal glow
+cursor = "#00ff9f"          # Matrix green cursor
+foreground = "#a4b1cd"      # Soft terminal text
+background = "#000000"      # Pure black void
+selection_foreground = "#000000"
+selection_background = "#00d4ff"
+
+# Terminal colors - cyberpunk/hacker aesthetic
+color0 = "#0d1117"          # GitHub dark
+color1 = "#ff5f56"          # Error red
+color2 = "#00ff9f"          # Matrix green
+color3 = "#ffbd2e"          # Warning amber
+color4 = "#00d4ff"          # Cyan glow
+color5 = "#bd93f9"          # Purple accent
+color6 = "#0affff"          # Bright cyan
+color7 = "#8b949e"          # Muted gray
+
+# Bright variants
+color8 = "#161b22"          # Dark surface
+color9 = "#ff6b6b"          # Bright red
+color10 = "#69ff94"         # Bright matrix green
+color11 = "#f1fa8c"         # Bright yellow
+color12 = "#61dafb"         # React blue
+color13 = "#ff79c6"         # Pink accent
+color14 = "#00ffff"         # Pure cyan
+color15 = "#c9d1d9"         # Light gray

@@ -1,0 +1,86 @@
+# Cosmic Peaks - btop theme
+# Dark hacker/space aesthetic
+
+# Main background - pure black
+theme[main_bg]="#000000"
+
+# Main text color - terminal gray
+theme[main_fg]="#a4b1cd"
+
+# Title color for boxes
+theme[title]="#c9d1d9"
+
+# Highlight color - cyan glow
+theme[hi_fg]="#00d4ff"
+
+# Background color of selected item
+theme[selected_bg]="#0d1117"
+
+# Foreground color of selected item
+theme[selected_fg]="#00d4ff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#484f58"
+
+# Color of text on graphs
+theme[graph_text]="#00ff9f"
+
+# Background color of the percentage meters
+theme[meter_bg]="#0d1117"
+
+# Misc colors for processes box
+theme[proc_misc]="#00ff9f"
+
+# Box outline colors - cyber palette
+theme[cpu_box]="#bd93f9"    # Purple
+theme[mem_box]="#00ff9f"    # Matrix green
+theme[net_box]="#00d4ff"    # Cyan
+theme[proc_box]="#ff79c6"   # Pink
+
+# Box divider line
+theme[div_line]="#21262d"
+
+# Temperature graph (green -> yellow -> red)
+theme[temp_start]="#00ff9f"
+theme[temp_mid]="#ffbd2e"
+theme[temp_end]="#ff5f56"
+
+# CPU graph (Cyan -> Purple)
+theme[cpu_start]="#00d4ff"
+theme[cpu_mid]="#61dafb"
+theme[cpu_end]="#bd93f9"
+
+# Mem/Disk free meter
+theme[free_start]="#00d4ff"
+theme[free_mid]="#61dafb"
+theme[free_end]="#bd93f9"
+
+# Mem/Disk cached meter
+theme[cached_start]="#00ff9f"
+theme[cached_mid]="#69ff94"
+theme[cached_end]="#00d4ff"
+
+# Mem/Disk available meter
+theme[available_start]="#ffbd2e"
+theme[available_mid]="#ff6b6b"
+theme[available_end]="#ff5f56"
+
+# Mem/Disk used meter
+theme[used_start]="#00ff9f"
+theme[used_mid]="#00d4ff"
+theme[used_end]="#61dafb"
+
+# Download graph
+theme[download_start]="#ff79c6"
+theme[download_mid]="#ff6b6b"
+theme[download_end]="#ff5f56"
+
+# Upload graph
+theme[upload_start]="#00ff9f"
+theme[upload_mid]="#69ff94"
+theme[upload_end]="#00d4ff"
+
+# Process box gradient
+theme[process_start]="#00d4ff"
+theme[process_mid]="#bd93f9"
+theme[process_end]="#ff79c6"
